@@ -1,0 +1,47 @@
+body {
+    padding: 0 20px;
+}
+
+.warmer-than-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+.warmer-than-container .slider-label-container{
+    max-width: 400px;
+}
+
+.show-more-button {
+    display: block;
+    width: 200px;
+    padding: 10px;
+    margin: 20px auto;
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 1.2rem;
+    text-align: center;
+    cursor: pointer;
+    transition: background-color 0.3s, transform 0.2s;
+}
+
+.show-more-button:hover {
+    background-color: #0056b3;
+    transform: scale(1.05);
+}
+
+.no-data-container {
+    text-align: center;
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+.error-container {
+    text-align: center;
+    max-width: 400px;
+    color: red;
+    margin: 0 auto;
+}

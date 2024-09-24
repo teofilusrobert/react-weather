@@ -1,0 +1,23 @@
+.input-container {
+    display: flex;
+    justify-content: center;
+    margin: 20px 0;
+}
+
+.input-container input {
+    width: 100%;
+    max-width: 400px;
+    padding: 15px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    font-size: 1rem;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+    transition: border-color 0.3s;
+}
+
+.input-container input:focus {
+    border-color: #007BFF;
+    outline: none;
+    width: 400px;
+    max-width: 100%;
+}
