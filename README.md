@@ -2,9 +2,9 @@
 Wheather app using ReactJs
 
 ## Requirements & Info
- Node: v16.20.0
- NPM: v8.19.4
- Architectural: FSD - https://feature-sliced.design/docs/get-started/overview
+- Node: v16.20.0
+- NPM: v8.19.4
+- Architectural: FSD - https://feature-sliced.design/docs/get-started/overview
 
 ## Installation
  1. After clone, do `cd weather-app` in terminal.
@@ -14,6 +14,6 @@ Wheather app using ReactJs
 ## Where to find?
  1. Pages: src/pages
  2. Components: src/shared/ui
- 3. API: src/shared/ui
+ 3. API: src/shared/api
  4. Interfaces & types: src/shared/interfaces
  5. Helper Functions: src/shared/utils
