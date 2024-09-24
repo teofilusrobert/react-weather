@@ -1,6 +1,8 @@
 # react-weather
 Wheather app using ReactJs
 
+![image](https://github.com/user-attachments/assets/7243c2a3-6f98-4c6f-bfc6-8ca04a0ddf71)
+
 ## Requirements & Info
 - Node: v16.20.0
 - NPM: v8.19.4
